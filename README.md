@@ -18,7 +18,8 @@ Every visible element includes a data-testid for automated testing.
 ✅ Separate, clean CSS and JS files
 ✅ Tested with data-testid attributes for every visible element
 
-
+Live demo
+[Detail-card](https://detail-card.netlify.app/)
 
 🏗️ Folder Structure
 profile-card/
